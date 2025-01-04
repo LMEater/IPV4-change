@@ -62,6 +62,10 @@ pythonw main.pyw
 - pywin32>=307：用于 Windows API 调用
 - tkinter：GUI 界面（Python 标准库）
 
+## 作者信息
+
+-一个苦逼的大学生LMEater1707
+
 ## 注意事项
 
 - 修改网络设置需要管理员权限
